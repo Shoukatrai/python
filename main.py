@@ -19,6 +19,22 @@ print("Python is very easy to learn")
 print("Hello");print("World");print("Python is fun")
 
 #CODE CHALLENGE
+print("Hello World")
+print("This is a code challenge")
+print("I am learning Python")
 
+# Output
+print("Hello world")
+print('Python is fun!')
+print("Python is easy to learn", end=" ")
+print("output on the same line")
 
-
+# print numbers
+print(5)
+print(544)
+print(534)
+print(52)
+print(5.4)
+print(5 + 5)
+print(5 * 5)
+print("Hello I am " , 22 , "years old")
